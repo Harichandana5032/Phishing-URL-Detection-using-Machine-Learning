@@ -113,6 +113,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## click Here to run the application
+
 ## Important Note
 
 This application provides machine learning-based predictions using URL characteristics. A prediction is not a guarantee that a website is safe or malicious. Always exercise caution when visiting unfamiliar websites.
