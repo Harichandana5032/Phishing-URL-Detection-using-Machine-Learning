@@ -114,7 +114,7 @@ streamlit run app.py
 ```
 
 ## click Here to run the application
-https://phishing-url-detection-using-machine-learning-cvpmkc2uvu7xc7xo.streamlit.app
+https://phishing-url-detection-using-machine-learning-cvpmkc2uvu7xc7xo.streamlit.app/
 
 ## Important Note
 
